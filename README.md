@@ -1,1 +1,1 @@
-# ProjectExclusion.github.io
+# projectexclusion.github.io
